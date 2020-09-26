@@ -1,0 +1,8 @@
+[2020-07-21 09:47:39,398] INFO [ControllerEventThread controllerId=1] Shutting down (kafka.controller.ControllerEventManager$ControllerEventThread)
+[2020-07-21 09:47:39,400] INFO [ControllerEventThread controllerId=1] Stopped (kafka.controller.ControllerEventManager$ControllerEventThread)
+[2020-07-21 09:47:39,400] INFO [ControllerEventThread controllerId=1] Shutdown completed (kafka.controller.ControllerEventManager$ControllerEventThread)
+[2020-07-21 09:47:39,401] DEBUG [Controller id=1] Resigning (kafka.controller.KafkaController)
+[2020-07-21 09:47:39,402] DEBUG [Controller id=1] Unregister BrokerModifications handler for Set() (kafka.controller.KafkaController)
+[2020-07-21 09:47:39,403] INFO [PartitionStateMachine controllerId=1] Stopped partition state machine (kafka.controller.ZkPartitionStateMachine)
+[2020-07-21 09:47:39,404] INFO [ReplicaStateMachine controllerId=1] Stopped replica state machine (kafka.controller.ZkReplicaStateMachine)
+[2020-07-21 09:47:39,404] INFO [Controller id=1] Resigned (kafka.controller.KafkaController)

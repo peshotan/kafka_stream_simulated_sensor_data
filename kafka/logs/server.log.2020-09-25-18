@@ -1,0 +1,5 @@
+[2020-09-25 18:48:31,277] INFO Expiring session 0x1000269dfd90000, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2020-09-25 18:49:25,389] WARN Unable to read additional data from client sessionid 0x1000269dfd90000, likely client has closed socket (org.apache.zookeeper.server.NIOServerCnxn)
+[2020-09-25 18:49:35,717] WARN Unable to read additional data from client sessionid 0x1000269dfd90000, likely client has closed socket (org.apache.zookeeper.server.NIOServerCnxn)
+[2020-09-25 18:52:34,455] INFO Invalid session 0x1000269dfd90000 for client /127.0.0.1:47556, probably expired (org.apache.zookeeper.server.ZooKeeperServer)
+[2020-09-25 18:52:36,037] INFO Invalid session 0x1000269dfd90000 for client /127.0.0.1:47560, probably expired (org.apache.zookeeper.server.ZooKeeperServer)

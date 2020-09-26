@@ -1,0 +1,4 @@
+export SPARK_HOME=/home/ubuntu/spark-2.4.7-bin-hadoop2.7
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+export PYSPARK_PYTHON=python3
+
